@@ -1,0 +1,9 @@
+TARJETA VIRTUAL — ¡VAMOS POR ESA PRESENTACIÓN!
+
+Descomprime el ZIP y abre index.html en tu navegador. Introduce el código 7519.
+
+Archivos: index.html (estructura), style.css (diseño y nubes animadas), script.js (código, destellos y frases).
+
+Para cambiar el código, edita ACCESS_CODE en script.js. Para cambiar frases, edita la lista phrases.
+Las fuentes de Google Fonts necesitan internet; sin conexión se usan fuentes alternativas.
+El código es una sorpresa visual, no una barrera de seguridad real, porque puede verse en el código fuente.
